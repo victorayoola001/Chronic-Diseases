@@ -1,14 +1,14 @@
 # Prevalence of Chronic Diseases among the U.S population
 ## 📚 Table of contents
-1. [Project Overview](Project-Overview)
-2. [Tools & Technologies](Tools--Tchnologies)
-3. [Dataset overview](Dataset-overview)
-4. [Data cleaning process](Data-cleaning-process)
-5. [Exploratory Data Analysis](Exploratory-Data-Analysis)
-6. [PowerBi Dashboard](PowerBi-Dashboard)
-7. [Key Insights](Key-Insights)
-8. [Recommendations](Recommendations)
-9. [Data Source](Data-Source)
+1. [Project Overview](#project-overview)
+2. [Tools & Technologies](#tools--technologies)
+3. [Dataset overview](#dataset-overview)
+4. [Data cleaning process](#data-cleaning-process)
+5. [Exploratory Data Analysis](#exploratory-data-analysis)
+6. [PowerBi Dashboard](#powerbi-dashboard)
+7. [Key Insights](#key-insights)
+8. [Recommendations](#recommendations)
+9. [Data Source](#data-source)
 
 ## Project Overview
 #### This Project seeks to explore the prevalence of various chronic diseases across different age groups in the U.S. It showcases the relationship between chronic conditions and how they affect young and older populations, while also highlighting specific risk factors that predispose each population group to these chronic conditions. 
